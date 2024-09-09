@@ -31,6 +31,12 @@
 
 </div>
 
+##Demo##
+
+![Screenshot (84)](https://github.com/user-attachments/assets/607fa335-d262-43c2-89a2-d78b488d9ea5)
+
+![Screenshot (85)](https://github.com/user-attachments/assets/9b5a4035-f00d-4b26-8d9b-373b7e0474dc)
+
 ## Project Description
 
 Forkify is a web application designed to simplify the process of discovering and exploring various recipes. With Forkify, users can effortlessly search for recipes, view detailed ingredients and cooking instructions and also bookmark their favorite recipes for later.
@@ -49,7 +55,6 @@ HTML5, sass, JavaScript, npm, parcel
 
    - Present recipes in a visually appealing layout with clear sections for cooking time, servings, and ingredients.
    - Include high-quality images to entice users and enhance the visual appeal of recipes.
-   - Implement responsive design to ensure optimal viewing across various devices and screen sizes.
 
 3. **Change Servings Functionality**
 
@@ -65,7 +70,6 @@ HTML5, sass, JavaScript, npm, parcel
 5. **User-Uploaded Recipes**
 
    - Enable users to contribute their own recipes by uploading recipe details and images.
-   - Implement validation mechanisms to ensure uploaded recipes meet specified criteria.
    - Automatically add user-uploaded recipes to the user's bookmark list for easy access.
 
 6. **Local Storage Integration**
