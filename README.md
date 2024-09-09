@@ -37,7 +37,7 @@ Forkify is a web application designed to simplify the process of discovering and
 
 ## Built with
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![sass](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) &nbsp; ![npm](https://img.shields.io/badge/npm%20-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![parcel](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![sass](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) &nbsp; ![npm](https://img.shields.io/badge/npm%20-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![parcel](https://img.shields.io/badge/parcel%20-%23F7DF1E.svg?style=for-the-badge&logo=parcel&logoColor=black)&nbsp;
 
 ## Features
 
