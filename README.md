@@ -20,12 +20,9 @@ With an intuitive interface and robust search functionality, Froakify makes it e
 
 ### Enter your query in the Search Bar!
 
-![Enter your query in the Search Bar!](Screenshots/1.png)
+![Screenshot 2024-10-12 100842](https://github.com/user-attachments/assets/068e382b-067b-4f4e-9819-0d7e38bbbb2b)
 
 ### Choose from a variety of recipes to get a brief overview of the recipe!
 
-![Choose from a variety of recipes to see a brief overview!](Screenshots/2.png)
+![Screenshot 2024-10-12 100903](https://github.com/user-attachments/assets/47c72a77-3f4d-40a9-89e9-64bfca5d89ca)
 
-### Change serving size and Add the ingredients to your Shopping List!
-
-![Change serving size and Add Ingredients to your Shopping List!](Screenshots/3.png)
